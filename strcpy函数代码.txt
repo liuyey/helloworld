@@ -13,9 +13,5 @@ char* StrCpy(char* src)
    }
   return *scr1;
 }
-<<<<<<< HEAD
-=======
-/**
-remote eidt B21111404刘烨烨
-**/
->>>>>>> b95c775a5e2ee00d8bea66e85c0ba50ad4facccc
+
+

@@ -14,7 +14,7 @@ char* StrCpy(char* src)
   return *scr1;
 }
 /**
-本地编辑
+Remote edit B2111404刘烨烨
 **/
 
 
